@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-11-04 18:05+0100\n"
+"PO-Revision-Date: 2018-11-04 18:46+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../admin\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-tb-admin-widgets-list.php:15
+msgid "Short name"
+msgstr "Shortname"
+
+#: class-tb-admin-widgets-list.php:16
+msgid "url"
+msgstr "BaseURL"
+
+#: class-tb-admin-widgets-list.php:17
+msgid "api key"
+msgstr "API Token"
+
+#: class-tb-admin-widgets-list.php:18 class-tb-admin-widgets-list.php:47
+msgid "Test Api"
+msgstr "Test Api"
+
+#: class-tb-admin-widgets-list.php:33
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: class-tb-admin-widgets-list.php:34 class-tb-admin-widgets-list.php:111
+msgid "Delete"
+msgstr "Löschen"
+
+#: class-tb-admin-widgets-list.php:105
+msgid "Show more details"
+msgstr "Mehr Details anzeigen"
+
+#: timerbee-widget-admin.php:10
+msgid "Widgets"
+msgstr "Widgets"
+
+#: timerbee-widget-admin.php:12 timerbee-widget-admin.php:186
+msgid "Add new"
+msgstr "Neue Konfiguration"
+
+#: timerbee-widget-admin.php:51 timerbee-widget-admin.php:55
+msgid "ERROR"
+msgstr "ERROR"
+
+#: timerbee-widget-admin.php:51
+msgid "Service is unreachable"
+msgstr "Service ist nicht erreichbar"
+
+#: timerbee-widget-admin.php:55 timerbee-widget-admin.php:57
+msgid "api responded with code"
+msgstr "api antwortete mit code"
+
+#: timerbee-widget-admin.php:57
+msgid "OK"
+msgstr "OK"
+
+#: timerbee-widget-admin.php:61
+msgid "Undefined Exception raised during doing test request"
+msgstr "Nicht definiert Ausnahme während Testanforderung ausgelöst"
+
+#: timerbee-widget-admin.php:99
+msgid "Item was successfully saved"
+msgstr "Artikel wurde erfolgreich gespeichert"
+
+#: timerbee-widget-admin.php:101
+msgid "There was an error while saving item"
+msgstr "Beim Speichern des Artikels ist ein Fehler aufgetreten"
+
+#: timerbee-widget-admin.php:106
+msgid "Item was successfully updated"
+msgstr "Artikel wurde erfolgreich aktualisiert"
+
+#: timerbee-widget-admin.php:120
+msgid "Item not found"
+msgstr "Artikel nicht gefunden"
+
+#: timerbee-widget-admin.php:126
+msgid "Widget data"
+msgstr "Konfigurationsdaten"
+
+#: timerbee-widget-admin.php:130
+msgid "Add new timerbee widget"
+msgstr "Neues Timerbee-Widget hinzufügen"
+
+#: timerbee-widget-admin.php:131
+msgid "Back to list"
+msgstr "Zurück zur Liste"
+
+#: timerbee-widget-admin.php:153
+msgid "Save"
+msgstr "Speichern"
+
+#: timerbee-widget-admin.php:179
+msgid "Items Deleted: "
+msgstr "Gelöschte Elemente:"
+
+#: timerbee-widget-admin.php:185
+msgid "TimerBee Widgets"
+msgstr "TimerBee Widget"
+
+#: timerbee-widget-admin.php:210
+msgid "Error Text updated"
+msgstr "Fehlertext aktualisiert"
+
+#: timerbee-widget-admin.php:221
+msgid "Edit error message text"
+msgstr "Bearbeiten Sie den Text der Fehlermeldung"
+
+#: timerbee-widget-admin.php:223
+msgid ""
+"Error text message will be displayed in widget area in case of Timerbee "
+"service is inacessible"
+msgstr ""
+"Wenn der Timerbee-Dienst nicht verfügbar ist, wird diese Fehlermeldung im "
+"Widget-Bereich angezeigt"
+
+#: timerbee-widget-admin.php:229
+msgid "Update error message"
+msgstr "Speichern"
+
+#: timerbee-widget-admin.php:241
+msgid "Shortname is required"
+msgstr "Kurzname ist erforderlich"
+
+#: timerbee-widget-admin.php:244
+msgid "Api url format invalid-must starts with \"http://\" or \"https://\" "
+msgstr ""
+"BaseURL ist ungültig. Es muss mit \"http://\" oder \"https://\" beginnen."
+
+#: timerbee-widget-admin.php:247
+msgid "Api key is required"
+msgstr "Ein API-Schlüssel ist erforderlich"
+
+#: timerbee-widget-admin.php:265
+msgid "Shortname"
+msgstr "Shortname"
+
+#: timerbee-widget-admin.php:270
+msgid "Api url"
+msgstr "BaseURL"
+
+#: timerbee-widget-admin.php:275
+msgid "Api key"
+msgstr "Api Token"
+
+#: timerbee-widget-admin.php:193
+msgid "The widget is included as shortcode"
+msgstr "Das Widget wird als Shortcode in der Webseite eingebaut."
+
+#: timerbee-widget-admin.php:195
+msgid "usage: [tb_portal_widget shortname=\"default\"]"
+msgstr "Beispiel: [tb_portal_widget shortname=\"default\"]"

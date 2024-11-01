@@ -1,0 +1,14 @@
+.errortext-edit-input{
+    width:85%;
+    margin-bottom: 20px;
+}
+
+.api-test-spinner{
+    background: url('../img/wpspin_light.gif') no-repeat;
+    background-size: 16px 16px;
+    display: none;
+    width: 24px;
+    height: 24px;
+    margin: 5px 5px 0;
+}
+
